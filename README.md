@@ -8,5 +8,5 @@ Nếu bạn cảm thấy không chắc chắn về tính an toàn của mã ngu�
 Để cài đặt nhanh, sử dụng lệnh sau:
 
 ```
-wget -N https://raw.githubusercontent.com/Github-Aiko/Aiko-Server-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/Github-Aiko/AikoServer-script/master/install.sh && bash install.sh
 ```
